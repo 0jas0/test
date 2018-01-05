@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/jas/ProderConsumerModel/Proder.java" line="27" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e78e433e-39cc-4036-b03b-2a09c5d54d8c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jas/list_iterator/test1.java" afterPath="$PROJECT_DIR$/src/com/jas/list_iterator/test1.java" />
-    </list>
+    <list default="true" id="e78e433e-39cc-4036-b03b-2a09c5d54d8c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/jas/list_iterator/test1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+              <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -885,12 +882,12 @@
       <workItem from="1513691359704" duration="668000" />
       <workItem from="1513774846151" duration="1200000" />
       <workItem from="1515166609681" duration="81000" />
-      <workItem from="1515167062421" duration="101000" />
+      <workItem from="1515167062421" duration="152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66046000" />
+    <option name="totallyTimeSpent" value="66097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -1283,7 +1280,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/jas/list_iterator/test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
           <folding />
         </state>
       </provider>

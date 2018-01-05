@@ -23,5 +23,6 @@ public class test1 {
         for(Map.Entry<String, Integer> entry : entries){
             System.out.println(entry.getKey()+"----"+entry.getValue());
         }
+        System.out.println("aaa");
     }
 }

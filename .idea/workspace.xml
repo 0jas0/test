@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/jas/ProderConsumerModel/Proder.java" line="27" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e78e433e-39cc-4036-b03b-2a09c5d54d8c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jas/list_iterator/test1.java" afterPath="$PROJECT_DIR$/src/com/jas/list_iterator/test1.java" />
-    </list>
+    <list default="true" id="e78e433e-39cc-4036-b03b-2a09c5d54d8c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -893,7 +890,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66177000" />
+    <option name="totallyTimeSpent" value="66181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />

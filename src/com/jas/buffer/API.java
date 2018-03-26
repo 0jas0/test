@@ -46,5 +46,8 @@ public class API {
         buffer.flip();
         buffer.put(new byte[]{1,2,34,5},0,4);
         System.out.println(buffer);
+        // 将buffer中的值放到数组中
+        byte[] array = buffer.array();
+        System.out.println(array);
     }
 }
